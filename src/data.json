@@ -1,0 +1,78 @@
+{
+    "fruitData": [{
+            "name": "Apple",
+            "img": "fruit/apple.png"
+
+        },
+        {
+            "name": "Banana",
+            "img": "fruit/banana.png"
+
+        },
+        {
+            "name": "Orange",
+            "img": "fruit/orange.png"
+
+        },
+        {
+            "name": "Pineapple",
+            "img": "fruit/pineapple.png"
+
+        },
+        {
+            "name": "Strawberry",
+            "img": "fruit/strawberry.png"
+
+        },
+        {
+            "name": "Watermelon",
+            "img": "fruit/watermelon.png"
+        },
+        {
+            "name": "Avocado",
+            "img": "fruit/avocado.png"
+        },
+        {
+            "name": "Grape",
+            "img": "fruit/grape.png"
+        }
+    ],
+    "girlData": [{
+            "name": "Hayano Uta",
+            "img": "girl/hayano_uta.png"
+
+        },
+        {
+            "name": "Ichika Hoshimiya",
+            "img": "girl/ichika_hoshimiya.png"
+
+        },
+        {
+            "name": "Kano Yura",
+            "img": "girl/kano_yura.png"
+
+        },
+        {
+            "name": "Mahina Amane",
+            "img": "girl/mahina_amane.png"
+
+        },
+        {
+            "name": "Mai Shiomi",
+            "img": "girl/mai_shiomi.png"
+
+        },
+        {
+            "name": "Rara Anzai",
+            "img": "girl/rara_anzai.png"
+        },
+        {
+            "name": "Sayaka Otoshiro",
+            "img": "girl/sayaka_otoshiro.png"
+        },
+        {
+            "name": "Yua Mikami",
+            "img": "girl/yua_mikami.png"
+        }
+    ]
+}
