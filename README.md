@@ -9,6 +9,8 @@ Memory card game in VueJS
 ![alt text](https://user-images.githubusercontent.com/25612169/108623231-78655c80-7470-11eb-9446-8ca853d6d337.png)
 ![alt text](https://user-images.githubusercontent.com/25612169/108623187-31776700-7470-11eb-8b7a-d8a57b11993a.png)
 
+demo: https://memorygamebyluat.herokuapp.com/
+
 ## Project setup
 ```
 npm install
