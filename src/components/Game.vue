@@ -1,9 +1,9 @@
 <template>
     <div>
         <div class="d-flex flex-row justify-content-center py-3">
-            <div class="turns p-3"><span class="btn btn-info">Turns : <span class="badge" :class="isFinish ? 'badge-success' : 'badge-light'">{{turns}}</span> </span></div>
-            <div class="totalTime p-3"><span class="btn btn-info">Total Time : <span class="badge" :class="isFinish ? 'badge-success' : 'badge-light'">{{min}} : {{sec}}</span></span></div>
-            <div class="totalTime p-3"><button class="btn btn-info" @click="resetGame" :disabled="!isStart">Restart</button></div>
+            <div class="turns p-3"><span class="btn btn-secondary">Turns : <span class="badge" :class="isFinish ? 'badge-success' : 'badge-light'">{{turns}}</span> </span></div>
+            <div class="totalTime p-3"><span class="btn btn-secondary">Total Time : <span class="badge" :class="isFinish ? 'badge-success' : 'badge-light'">{{min}} : {{sec}}</span></span></div>
+            <div class="totalTime p-3"><button class="btn btn-dark" @click="resetGame" :disabled="!isStart">Restart</button></div>
         </div>
         <div class="row">
             <div class="col-md-12 col-lg-12 col-xl-10 mx-auto">
